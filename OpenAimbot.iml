@@ -6,3 +6,38 @@
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
+
+Path: OpenAimbot.iml
+
+Back to the top
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module> 
+ 
+I'm not sure what I am doing wrong, I'm new to Java and IntelliJ. 
+ 
+I have also tried to run the program from the command line, but I get the same error. 
+ 
+I am using IntelliJ IDEA 2019.1.2 (Community Edition) on Windows 10. 
+ 
+I am using Java version 1.8.0_211. 
+ 
+Any help will be appreciated. 
+ 
+Thank you. 
+ 
+Kind regards, 
+Markus 
+ 
+ 
+ 
+				
+				
+					
+						Last edited by Markus; June 3rd, 2019 at  10:03 AM ..
